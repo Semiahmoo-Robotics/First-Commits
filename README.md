@@ -2,9 +2,13 @@
 Welcome to the demo repository for team 6458. This repository will not be used for competition.
 
 # First Commit
-  Nov-22-2018
+This is a tutorial for how to use git
+* https://github.com/paperairplain/first-contributions/blob/master/github-desktop-tutorial.md
+* https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+* https://git-scm.com/videos
 
 # Resources
+Special thanks to @chrislo27 for gathering these resources.
 * [Shuffleboard Maven link](http://first.wpi.edu/FRC/roborio/maven/release/edu/wpi/first/shuffleboard/app/)
 * [2018 FRC Control System](https://wpilib.screenstepslive.com/s/4485)
 * [Command based programming](https://wpilib.screenstepslive.com/s/currentCS/m/java/l/599732-what-is-command-based-programming)
