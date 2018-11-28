@@ -1,2 +1,5 @@
  - [Ethan Kim] (https://github.com/paperairplain)
+ - [Aden Chan] (https://github.com/21chanas3)
+ - [Zhan-Zhan Ge] (https://github.com/Dumble-Berries)
+ - [Roy Hwang] (https://github.com/royhwang12)
  - [Joseph Hu] (https://github.com/JJ-G4M3R)
